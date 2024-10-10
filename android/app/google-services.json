@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669619013720",
+    "project_id": "web-chat-app-9a3ce",
+    "storage_bucket": "web-chat-app-9a3ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669619013720:android:feaec0d7c30829c559622d",
+        "android_client_info": {
+          "package_name": "com.example.web_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBFTUNbSMMYJvWqnquqPFiw1qwuE7UQZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
